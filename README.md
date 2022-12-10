@@ -1,2 +1,2 @@
 # Solid
-Solid wallet is a web wallet for EVMOS Blockchain 
+Solid wallet is a non custodian web wallet
